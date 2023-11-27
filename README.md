@@ -16,7 +16,7 @@ Install the project with yarn
 
 ```bash
   yarn install
-  cd manufac
+  cd manufac assignment
 ```
 ## Run the project
 
@@ -64,4 +64,9 @@ import { calculateMean, calculateMedian, calculateMode } from '../utils/helper';
 You could find the utility functions in `utils/helper`.
 
 Utility function to calculate the `mean, median and mode`.
+
+### Results
+
+<img src="/public/Manufac-Analytics-Assignment.png" /> 
+<!-- [img](") -->
 
