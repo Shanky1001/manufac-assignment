@@ -67,6 +67,6 @@ Utility function to calculate the `mean, median and mode`.
 
 ### Results
 
-<img src="/public/Manufac-Analytics-Assignment.png" /> 
-<!-- [img](") -->
+![image](https://github.com/Shanky1001/manufac-assignment/assets/108118506/9b71d212-513a-4659-95aa-47376f8a8386)
+
 
