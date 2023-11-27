@@ -1,0 +1,43 @@
+.custom-table {
+  border-collapse: collapse;
+  width: 90%;
+  margin: auto;
+}
+
+table {
+  display: flex;
+  width: 100%;
+}
+
+thead {
+  flex: 1;
+}
+
+tbody {
+  flex: 5;
+  overflow-x: auto;
+  display: flex;
+}
+
+tbody td:nth-child(1){
+  font-weight: 700;
+}
+
+.custom-table tr {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid black;
+  padding: 8px;
+  border-collapse: collapse;
+  height: 30px;
+  overflow: auto;
+}
+
+.custom-table th {
+  background-color: #f2f2f2;
+}
